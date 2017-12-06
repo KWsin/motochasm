@@ -1,0 +1,2 @@
+# motochasm
+public shame class
